@@ -10,6 +10,7 @@ A self-motivated Javascript developer
 - 💬 Ask me about javascript, react, node.js and mongoDb.
 - 📫 You can reach me at amansharmait100@gmail.com
 - ⚡ Fun fact: love to draw and listen music 
+- <div><img align="left" alt="Github" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" /></div>
 
 ### Languages and Tools:
 
@@ -19,5 +20,5 @@ A self-motivated Javascript developer
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
-<br/>
-<div><img align="left" alt="Github" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" /></div>
+
+
