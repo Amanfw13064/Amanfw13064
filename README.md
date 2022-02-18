@@ -28,7 +28,7 @@ A self-motivated Javascript developer
 <a href="https://twitter.com/amanfw13_064" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gauravtambe01" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aman-sharma-40210a21b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gauravtambe" height="30" width="40" /></a>
 
-📈 My Github Status
+📈 My Github Stats
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Amanfw13064&show_icons=true&theme=gotham" alt="Aman" />
 
  
